@@ -1,4 +1,4 @@
-# Comparative Genomics of Haemophilus ducreyi
+#  Comparative Genomics of Haemophilus ducreyi; Insight into genes related to Virulence, Disease and Defense
 
 **Authors:** Rimon Mutsuddi and Abdullah All Jaber  
 **Institution:** Department of Biochemistry and Microbiology, North South University, Dhaka, Bangladesh  
@@ -63,7 +63,7 @@ COVID-19, hexamethylene amiloride, SARS-CoV-2 E, virology, viroporin
 **Institution:** Department of Biochemistry & Microbiology, North South University, Bashundhara, Dhaka-1229, Bangladesh  
 **Journal:** Biores Comm.  
 **Volume:** 6, Issue 1, January 2020  
-**DOI:** [10.31695/IJASRE.2019.33606](http://doi.org/10.31695/IJASRE.2019.33606)
+**Retrieved from https://www.bioresearchcommunications.com/index.php/brc/article/view/41
 
 ## Abstract
 B-cell lymphoma 2 (Bcl-2) gene, which encodes Bcl-2 protein, is vital for apoptotic programmed cell death. In this study, computational approaches were performed to reveal the effect of non-synonymous single nucleotide polymorphisms (nsSNPs) in Bcl-2 gene. A total of 79 nsSNPs were studied. Amongst all, 11 nsSNPs (M166T, G141E, R129C, S105P, F104S, R98L, L97P, H94P, V93A, G27S, V15L) were located at highly conserved regions or functionally important domains with a high probability of being deleterious for the protein function. These mutations were further investigated for their effect on the stability and binding affinity of the Bcl-2 protein.
