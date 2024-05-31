@@ -24,3 +24,35 @@ Haemophilus ducreyi, a gram-negative bacterium, is known to cause chancroid, a s
 
 ## Conclusion
 The study enhances the understanding of Haemophilus ducreyi's genetic basis for virulence and antibiotic resistance, offering potential targets for therapeutic interventions.
+
+# Microsecond Molecular Dynamics Simulations Revealed the Inhibitory Potency of Amiloride Analogs Against SARS-CoV-2 E Viroporin
+
+**Authors:** Abdullah All Jaber, Zeshan Mahmud Chowdhury, Arittra Bhattacharjee, Muntahi Mourin, Chaman Ara Keya, Zaied Ahmed Bhuyan  
+**Institution:** Department of Biochemistry and Microbiology, North South University, Bashundhara, Dhaka-1229, Bangladesh  
+**Journal:** Genomics & Informatics  
+**Volume:** 19, Issue 4, 2021  
+**DOI:** [10.5808/gi.21040](https://doi.org/10.5808/gi.21040)  
+
+## Abstract
+This study investigates the inhibitory potential of amiloride analogs against the SARS-CoV-2 E protein using molecular docking and dynamics simulations. The E protein is crucial for viral assembly, release, and pathogenesis. Amiloride analogs, particularly hexamethylene amiloride (HMA) and 3A5NP2C, showed higher binding affinity for SARS-CoV-2 E compared to SARS-CoV-1 E. Molecular dynamics simulations demonstrated that these compounds could alter the native structure and flexibility of the E protein, suggesting their potential as effective inhibitors.
+
+## Introduction
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) causes COVID-19, posing a significant global health threat. The virus encodes small envelope protein (E) which plays a key role in viral assembly and host inflammation. This study explores the inhibitory effects of amiloride analogs on the E protein of SARS-CoV-2.
+
+## Methods
+1. **Protein Characterization:** BLASTp was used to identify homologous sequences of the SARS-CoV-2 E protein. The sequences were analyzed using ProtParam, Pfam, and other tools.
+2. **3D Structure Generation:** E proteins of SARS-CoV-1 and SARS-CoV-2 were modeled and refined using various computational tools.
+3. **Pharmacokinetics of Ligands:** The properties of HMA and 3A5NP2C were explored using SWISS-ADME and PubChem.
+4. **Molecular Docking:** AutoDock tools were used for docking simulations to evaluate ligand-receptor interactions.
+5. **Molecular Dynamics Simulations:** Simulations were performed to study the dynamics and stability of ligand-bound E proteins in a lipid bilayer environment.
+
+## Results
+- **Protein Characterization:** SARS-CoV-2 E protein has a higher theoretical pI and instability index compared to other coronaviruses.
+- **Binding Affinity:** HMA and 3A5NP2C showed higher binding affinity for SARS-CoV-2 E than SARS-CoV-1 E, engaging more amino acids.
+- **Structural Alterations:** Molecular dynamics simulations revealed that these ligands could significantly alter the structure and flexibility of the E protein, particularly in the transmembrane and cytoplasmic regions.
+
+## Conclusion
+The study suggests that amiloride analogs, especially HMA and 3A5NP2C, might be effective inhibitors of the SARS-CoV-2 E protein, making them potential candidates for developing COVID-19 therapeutics.
+
+## Keywords
+COVID-19, hexamethylene amiloride, SARS-CoV-2 E, virology, viroporin
