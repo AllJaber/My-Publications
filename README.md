@@ -56,3 +56,27 @@ The study suggests that amiloride analogs, especially HMA and 3A5NP2C, might be 
 
 ## Keywords
 COVID-19, hexamethylene amiloride, SARS-CoV-2 E, virology, viroporin
+
+# High-Risk Non-synonymous SNPs of Human Bcl-2 Gene Alters Structural Stability and Small Molecule Binding
+
+**Authors:** A. S. M. Zisanur Rahman, Arittra Bhattacharjee, Abdullah All Jaber, Maqsud Hossain, Kazi Nadim Hasan, Sohidul Islam, Zaied Ahmed Bhuyan  
+**Institution:** Department of Biochemistry & Microbiology, North South University, Bashundhara, Dhaka-1229, Bangladesh  
+**Journal:** Biores Comm.  
+**Volume:** 6, Issue 1, January 2020  
+**DOI:** [10.31695/IJASRE.2019.33606](http://doi.org/10.31695/IJASRE.2019.33606)
+
+## Abstract
+B-cell lymphoma 2 (Bcl-2) gene, which encodes Bcl-2 protein, is vital for apoptotic programmed cell death. In this study, computational approaches were performed to reveal the effect of non-synonymous single nucleotide polymorphisms (nsSNPs) in Bcl-2 gene. A total of 79 nsSNPs were studied. Amongst all, 11 nsSNPs (M166T, G141E, R129C, S105P, F104S, R98L, L97P, H94P, V93A, G27S, V15L) were located at highly conserved regions or functionally important domains with a high probability of being deleterious for the protein function. These mutations were further investigated for their effect on the stability and binding affinity of the Bcl-2 protein.
+
+## Methods
+1. **Sequence Retrieval and Alignment:** The Bcl-2 gene sequences were retrieved and analyzed using computational tools to predict the impact of nsSNPs.
+2. **Stability Analysis:** The stability of the protein structures with and without nsSNPs was assessed using molecular dynamics simulations.
+3. **Binding Affinity Assessment:** The binding affinity of the mutated proteins with the HA 14-1 antagonist was evaluated using docking simulations.
+
+## Results
+- **High-risk nsSNPs Identification:** Out of 79 nsSNPs, 11 were identified as high-risk due to their location in conserved or functional domains.
+- **Structural Stability:** Most high-risk nsSNPs resulted in decreased stability of the Bcl-2 protein structure, except H94P.
+- **Binding Affinity:** The F104S mutation significantly reduced the binding affinity to HA 14-1 compared to the wild type.
+
+## Conclusion
+This study highlights the potential impact of high-risk nsSNPs on the structural stability and function of the Bcl-2 protein, providing insights for future research and therapeutic strategies.
