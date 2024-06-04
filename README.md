@@ -80,3 +80,49 @@ B-cell lymphoma 2 (Bcl-2) gene, which encodes Bcl-2 protein, is vital for apopto
 
 ## Conclusion
 This study highlights the potential impact of high-risk nsSNPs on the structural stability and function of the Bcl-2 protein, providing insights for future research and therapeutic strategies.
+
+# Impact of Community Masking on COVID-19: A Cluster-Randomized Trial in Bangladesh
+
+**Authors:** Jason Abaluck, Laura H. Kwong, Ashley Styczynski, Ashraful Haque, Md. Alamgir Kabir, Ellen Bates-Jefferys, Emily Crawford, Jade Benjamin-Chung, Shabib Raihan, Shadman Rahman, Salim Benhachmi, Neeti Zaman Bintee, Peter J. Winch, Maqsud Hossain, Hasan Mahmud Reza, Abdullah All Jaber, Shawkee Gulshan Momen, Aura Rahman, Faika Laz Banti, Tahrima Saiha Huq, Stephen P. Luby, Ahmed Mushfiq Mobarak
+
+**Journal:** Science, 375 (6577), eabi9069
+
+**DOI:** [10.1126/science.abi9069](https://www.science.org/doi/10.1126/science.abi9069)
+
+## Summary
+
+### Introduction
+The COVID-19 pandemic has caused significant global health and economic impacts. In the absence of widespread vaccine availability in low- and middle-income countries, alternative measures to mitigate virus transmission are critical. This study examines the effectiveness of community-wide mask distribution and promotion in rural Bangladesh to increase mask-wearing and reduce symptomatic COVID-19 infections.
+
+### Objectives
+1. **Increase Community-Wide Mask-Wearing:** Implement strategies to promote widespread mask usage in rural communities.
+2. **Track COVID-19 Infections:** Measure changes in symptomatic SARS-CoV-2 infections due to the intervention.
+
+### Methodology
+- **Design:** Cluster-randomized controlled trial.
+- **Participants:** 342,183 adults across 600 villages in rural Bangladesh.
+- **Intervention:** Distribution of cloth and surgical masks, combined with various promotional strategies at the village and household levels.
+- **Duration:** November 2020 to April 2021.
+
+### Interventions
+1. **Mask Distribution:** Households received either cloth or surgical masks.
+2. **Promotional Strategies:** Included communication about mask benefits, in-person reminders in public places, role-modeling by public officials, and several other tactics such as verbal commitments, social signaling, and text messaging.
+3. **Measurement of Compliance:** Observed changes in mask-wearing behavior and physical distancing.
+
+### Results
+- **Increased Mask-Wearing:** Proper mask-wearing rose from 13.3% in the control group to 42.3% in the intervention group.
+- **Reduction in Symptomatic Infections:** The intervention led to a reduction in symptomatic seroprevalence (adjusted prevalence ratio = 0.91). The effect was more pronounced among adults aged ≥60 in villages with surgical mask distribution (adjusted prevalence ratio = 0.65).
+- **Physical Distancing:** The study also measured the impact on physical distancing behaviors.
+
+### Conclusion
+Community-wide mask distribution and promotion significantly increased mask usage and reduced symptomatic COVID-19 infections. This approach is scalable and effective, especially in areas with limited access to vaccines.
+
+## How to Use This Study
+- **Public Health Policy:** Inform policies for mask distribution and promotion in low- and middle-income countries.
+- **Community Engagement:** Engage local leaders and utilize a mix of communication strategies to promote health interventions.
+- **Further Research:** Explore the long-term impact of mask-wearing and similar interventions on infectious disease transmission.
+
+## Acknowledgments
+The study was supported by various organizations and involved collaboration with local volunteers and public health experts.
+
+For more detailed information, refer to the full article available at [Science.org](https://www.science.org/doi/10.1126/science.abi9069).
